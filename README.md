@@ -49,4 +49,3 @@ Se simulará que el pago sea con tarjeta de crédito o débito,  no se validará
 El sistema no realizará un cuadre de caja diario, sólo elaborará el consolidado diario de las compras como tema informativo.
 
 La compra no requerirá emitir Factura, sólo generará la orden de compra correspondiente y enviará por correo la confirmación de la compra. Simulará una boleta.
-
