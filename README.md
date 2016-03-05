@@ -16,7 +16,7 @@ El sistema deberá descargarse de un repositorio.
 El sistema deberá compilarse y ejecutar scripts que estén en el proyecto.
 La herramienta deberá ejecutarse en cualquier PC que cumpla con los requerimientos básicos para acceder a un entorno web.
 
-3.1.	INTERFAZ CLIENTE
+    3.1.	INTERFAZ CLIENTE
 El usuario cliente podrá ingresar a la página web y crearse un login para posteriormente concretar las compras que desea realizar.
 El usuario ingresará a la página web y consultar los productos que desea comprar con su respectivo detalle.
 El usuario contará con un “carrito de compras” para poder agregar al mismo los productos que desee comprar, en caso de que sea más de uno.
