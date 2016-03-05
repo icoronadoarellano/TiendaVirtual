@@ -15,6 +15,7 @@ El software para elaborar el código fuente será Visual Studio 2013.
 El sistema deberá descargarse de un repositorio.
 El sistema deberá compilarse y ejecutar scripts que estén en el proyecto.
 La herramienta deberá ejecutarse en cualquier PC que cumpla con los requerimientos básicos para acceder a un entorno web.
+
 3.1.	INTERFAZ CLIENTE
 El usuario cliente podrá ingresar a la página web y crearse un login para posteriormente concretar las compras que desea realizar.
 El usuario ingresará a la página web y consultar los productos que desea comprar con su respectivo detalle.
@@ -26,6 +27,7 @@ El usuario podrá consultar sus compras realizadas en un historial de compras.
 El usuario recibirá un mail a su bandeja de entrada correspondiente como confirmación de compra.
 Al momento de concretar la compra se generará automáticamente una orden de compra con su id correspondiente que el usuario administrador podrá revisar en su sesión.
 El usuario hará el pago de sus compras con la opción tarjeta de crédito o débito.
+
 3.2.	INTERFAZ ADMINISTRADOR
 
 El usuario administrador podrá hacer el mantenimiento respectivo de los productos, categorías y subcategorías (agregar, eliminar, actualizar) de la tienda virtual.
